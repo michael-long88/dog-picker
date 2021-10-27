@@ -1,0 +1,425 @@
+{
+  "Puli": {
+    "Height": [
+      "17 inches (male)",
+      "16 inches (female)"
+    ],
+    "Weight": "25-35 pounds",
+    "Life Expectancy": "10-15 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 1,
+    "Coat Grooming Frequency": 5,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Corded",
+      "Double"
+    ],
+    "Coat Length": [
+      "Long"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 5,
+    "Adaptability Level": 4,
+    "Trainability Level": 5,
+    "Energy Level": 3,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 5
+  },
+  "Pumi": {
+    "Height": [
+      "16-18.5 inches (male)",
+      "15-17.5 inches (female)"
+    ],
+    "Weight": [
+      "27-29 pounds (male)",
+      "22-24 pounds (female)"
+    ],
+    "Life Expectancy": "12-13 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 1,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Curly",
+      "Wavy"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 4,
+    "Adaptability Level": 4,
+    "Trainability Level": 5,
+    "Energy Level": 5,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 5
+  },
+  "Pyrenean Mastiff": {
+    "Height": [
+      "Males 30-31 inches",
+      "Females 25-30 inches"
+    ],
+    "Weight": "120-240 pounds",
+    "Life Expectancy": "10-13 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 3,
+    "Drooling Level": 5,
+    "Coat Type": [
+      "Double"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 5,
+    "Adaptability Level": 3,
+    "Trainability Level": 3,
+    "Energy Level": 2,
+    "Barking Level": 1,
+    "Mental Stimulation Needs": 3
+  },
+  "Pyrenean Shepherd": {
+    "Height": "15.5-18.5 inches (male rough-faced)",
+    "Weight": "15-18 inches (female rough-faced)",
+    "Life Expectancy": "15.5-21 inches (male smooth-faced)",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Smooth",
+      "Rough"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 5,
+    "Watchdog/Protective Nature": 5,
+    "Adaptability Level": 4,
+    "Trainability Level": 5,
+    "Energy Level": 5,
+    "Barking Level": 4,
+    "Mental Stimulation Needs": 5
+  },
+  "Rafeiro do Alentejo": {
+    "Height": "25-29 inches",
+    "Weight": "77-132 pounds",
+    "Life Expectancy": "12-14 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 3,
+    "Coat Type": [
+      "Double"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 5,
+    "Adaptability Level": 5,
+    "Trainability Level": 5,
+    "Energy Level": 3,
+    "Barking Level": 2,
+    "Mental Stimulation Needs": 3
+  },
+  "Rat Terrier": {
+    "Height": [
+      "10-13 inches (miniature)",
+      "13-18 inches (standard)"
+    ],
+    "Weight": "10-25 pounds",
+    "Life Expectancy": "12-18 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 5,
+    "Playfulness Level": 5,
+    "Watchdog/Protective Nature": 4,
+    "Adaptability Level": 4,
+    "Trainability Level": 5,
+    "Energy Level": 4,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 5
+  },
+  "Redbone Coonhound": {
+    "Height": [
+      "22-27 inches (male)",
+      "21-26 inches (female)"
+    ],
+    "Weight": "45-70 pounds",
+    "Life Expectancy": "12-15 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 5,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 3,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 4,
+    "Trainability Level": 3,
+    "Energy Level": 3,
+    "Barking Level": 4,
+    "Mental Stimulation Needs": 4
+  },
+  "Rhodesian Ridgeback": {
+    "Height": [
+      "25-27 inches (male)",
+      "24-26 inches (female)"
+    ],
+    "Weight": [
+      "85 pounds (male)",
+      "70 pounds (female)"
+    ],
+    "Life Expectancy": "",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 5,
+    "Adaptability Level": 4,
+    "Trainability Level": 4,
+    "Energy Level": 3,
+    "Barking Level": 2,
+    "Mental Stimulation Needs": 4
+  },
+  "Romanian Mioritic Shepherd Dog": {
+    "Height": [
+      "27-29 inches (males)",
+      "22.5-28 inches (females)"
+    ],
+    "Weight": "100-130 lbs",
+    "Life Expectancy": "12-14 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 2,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 3,
+    "Coat Type": [
+      "Double"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 1,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 5,
+    "Adaptability Level": 3,
+    "Trainability Level": 3,
+    "Energy Level": 3,
+    "Barking Level": 1,
+    "Mental Stimulation Needs": 3
+  },
+  "Rottweiler": {
+    "Height": [
+      "24-27 inches (male)",
+      "22-25 inches (female)"
+    ],
+    "Weight": [
+      "95-135 pounds (male)",
+      "80-100 pounds (female)"
+    ],
+    "Life Expectancy": "9-10 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 1,
+    "Drooling Level": 3,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 5,
+    "Adaptability Level": 4,
+    "Trainability Level": 5,
+    "Energy Level": 3,
+    "Barking Level": 1,
+    "Mental Stimulation Needs": 5
+  },
+  "Russell Terrier": {
+    "Height": "10-12 inches",
+    "Weight": "9-15 pounds",
+    "Life Expectancy": "12-14 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 5,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Wiry",
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 5,
+    "Playfulness Level": 5,
+    "Watchdog/Protective Nature": 4,
+    "Adaptability Level": 4,
+    "Trainability Level": 3,
+    "Energy Level": 5,
+    "Barking Level": 4,
+    "Mental Stimulation Needs": 5
+  },
+  "Russian Toy": {
+    "Height": "8-11 inches",
+    "Weight": "Up to 6.5 pounds",
+    "Life Expectancy": "12-14+ years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Double"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 4,
+    "Adaptability Level": 4,
+    "Trainability Level": 4,
+    "Energy Level": 3,
+    "Barking Level": 4,
+    "Mental Stimulation Needs": 3
+  },
+  "Russian Tsvetnaya Bolonka": {
+    "Height": "9-10 inches",
+    "Weight": "4.5-11 pounds",
+    "Life Expectancy": "12-16 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 1,
+    "Coat Grooming Frequency": 3,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Wavy"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 4,
+    "Playfulness Level": 5,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 4,
+    "Trainability Level": 4,
+    "Energy Level": 3,
+    "Barking Level": 4,
+    "Mental Stimulation Needs": 4
+  },
+  "Saint Bernard": {
+    "Height": [
+      "28-30 inches (males)",
+      "26-28 inches (female)"
+    ],
+    "Weight": [
+      "140-180 pounds (male)",
+      "120-140 pounds (female)"
+    ],
+    "Life Expectancy": "8-10 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 5,
+    "Coat Type": [
+      "Smooth",
+      "Rough",
+      "Double"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 5,
+    "Adaptability Level": 4,
+    "Trainability Level": 3,
+    "Energy Level": 3,
+    "Barking Level": 1,
+    "Mental Stimulation Needs": 3
+  },
+  "Saluki": {
+    "Height": [
+      "23-28 inches (male)",
+      "considerably smaller (female)"
+    ],
+    "Weight": "40-65 pounds",
+    "Life Expectancy": "10-17 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 2,
+    "Coat Grooming Frequency": 1,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 1,
+    "Adaptability Level": 3,
+    "Trainability Level": 3,
+    "Energy Level": 4,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 5
+  }
+}

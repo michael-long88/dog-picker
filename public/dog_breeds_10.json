@@ -1,0 +1,419 @@
+{
+  "Ibizan Hound": {
+    "Height": [
+      "23.5-27.5 inches (male)",
+      "22.5-26 inches (female)"
+    ],
+    "Weight": [
+      "50 pounds (male)",
+      "45 pounds (female)"
+    ],
+    "Life Expectancy": "11-14 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 5,
+    "Shedding Level": 2,
+    "Coat Grooming Frequency": 1,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Wiry",
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 4,
+    "Trainability Level": 3,
+    "Energy Level": 5,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 5
+  },
+  "Icelandic Sheepdog": {
+    "Height": [
+      "18 inches (male)",
+      "16.5 inches (female)"
+    ],
+    "Weight": [
+      "30 pounds (male)",
+      "25 pounds (female)"
+    ],
+    "Life Expectancy": "12-14 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 4,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Double"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 4,
+    "Adaptability Level": 4,
+    "Trainability Level": 5,
+    "Energy Level": 4,
+    "Barking Level": 4,
+    "Mental Stimulation Needs": 5
+  },
+  "Irish Red and White Setter": {
+    "Height": [
+      "24.5-26 inches (male)",
+      "22.5-24 inches (female)"
+    ],
+    "Weight": [
+      "42-60 pounds (male)",
+      "35-50 pounds (female)"
+    ],
+    "Life Expectancy": "11-15 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 5,
+    "Shedding Level": 2,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Double",
+      "Silky"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 5,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 5,
+    "Trainability Level": 5,
+    "Energy Level": 5,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 3
+  },
+  "Irish Setter": {
+    "Height": [
+      "27 inches (male)",
+      "25 inches (female)"
+    ],
+    "Weight": [
+      "70 pounds (male)",
+      "60 pounds (female)"
+    ],
+    "Life Expectancy": "12-15 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 5,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 3,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Silky"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 5,
+    "Playfulness Level": 5,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 4,
+    "Trainability Level": 4,
+    "Energy Level": 5,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 4
+  },
+  "Irish Terrier": {
+    "Height": [
+      "18 inches",
+      "27 pounds (male)"
+    ],
+    "Weight": "25 pounds (female)",
+    "Life Expectancy": "13-15 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 1,
+    "Shedding Level": 2,
+    "Coat Grooming Frequency": 1,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Wiry",
+      "Double"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 5,
+    "Adaptability Level": 4,
+    "Trainability Level": 3,
+    "Energy Level": 3,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 4
+  },
+  "Irish Water Spaniel": {
+    "Height": [
+      "22-24 inches (male)",
+      "21-23 inches (female)"
+    ],
+    "Weight": [
+      "55-68 pounds (male)",
+      "45-58 pounds (female)"
+    ],
+    "Life Expectancy": "12-13 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 1,
+    "Coat Grooming Frequency": 3,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Curly"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 5,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 4,
+    "Trainability Level": 5,
+    "Energy Level": 3,
+    "Barking Level": 1,
+    "Mental Stimulation Needs": 4
+  },
+  "Irish Wolfhound": {
+    "Height": [
+      "32 inches minimum (male)",
+      "30 inches minimum (female)"
+    ],
+    "Weight": [
+      "120 pounds (male)",
+      "105 pounds (female)"
+    ],
+    "Life Expectancy": "6-8 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 4,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Wiry"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 5,
+    "Adaptability Level": 3,
+    "Trainability Level": 3,
+    "Energy Level": 3,
+    "Barking Level": 1,
+    "Mental Stimulation Needs": 3
+  },
+  "Italian Greyhound": {
+    "Height": "13-15 inches",
+    "Weight": "7-14 pounds",
+    "Life Expectancy": "14-15 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 5,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 1,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 5,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 4,
+    "Trainability Level": 4,
+    "Energy Level": 3,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 3
+  },
+  "Jagdterrier": {
+    "Height": "13-16 inches",
+    "Weight": "17-22 pounds",
+    "Life Expectancy": "10-12 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 2,
+    "Coat Grooming Frequency": 1,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Wiry",
+      "Smooth",
+      "Rough"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 4,
+    "Adaptability Level": 3,
+    "Trainability Level": 3,
+    "Energy Level": 3,
+    "Barking Level": 1,
+    "Mental Stimulation Needs": 4
+  },
+  "Japanese Akitainu": {
+    "Height": [
+      "25-27 1/2 inches (male)",
+      "22 1/2-25 inches (female)"
+    ],
+    "Weight": [
+      "65-75 pounds (male)",
+      "55-65 pounds (female)"
+    ],
+    "Life Expectancy": "",
+    "Affectionate With Family": [],
+    "Good With Young Children": [],
+    "Good With Other Dogs": [],
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 1,
+    "Drooling Level": [],
+    "Coat Type": [],
+    "Coat Length": [],
+    "Openness To Strangers": [],
+    "Playfulness Level": [],
+    "Watchdog/Protective Nature": [],
+    "Adaptability Level": [],
+    "Trainability Level": 2,
+    "Energy Level": 3,
+    "Barking Level": [],
+    "Mental Stimulation Needs": []
+  },
+  "Japanese Chin": {
+    "Height": "8-11 inches",
+    "Weight": "7-11 pounds",
+    "Life Expectancy": "10-12 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 5,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Silky"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 4,
+    "Trainability Level": 3,
+    "Energy Level": 3,
+    "Barking Level": 2,
+    "Mental Stimulation Needs": 3
+  },
+  "Japanese Spitz": {
+    "Height": "12-15 inches",
+    "Weight": "10-25 pounds",
+    "Life Expectancy": "12-14 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 3,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Double"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 3,
+    "Trainability Level": 3,
+    "Energy Level": 3,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 3
+  },
+  "Japanese Terrier": {
+    "Height": "11-13 inches",
+    "Weight": "5-10 pounds",
+    "Life Expectancy": "",
+    "Affectionate With Family": [],
+    "Good With Young Children": [],
+    "Good With Other Dogs": [],
+    "Shedding Level": 2,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": [],
+    "Coat Type": [],
+    "Coat Length": [],
+    "Openness To Strangers": [],
+    "Playfulness Level": [],
+    "Watchdog/Protective Nature": [],
+    "Adaptability Level": [],
+    "Trainability Level": 3,
+    "Energy Level": 3,
+    "Barking Level": [],
+    "Mental Stimulation Needs": []
+  },
+  "Jindo": {
+    "Height": "18-22 inches",
+    "Weight": "30-50 pounds",
+    "Life Expectancy": "~14 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Double"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 5,
+    "Adaptability Level": 3,
+    "Trainability Level": 4,
+    "Energy Level": 4,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 4
+  },
+  "Kai Ken": {
+    "Height": "15.5-19.5 inches",
+    "Weight": "20-40 pounds",
+    "Life Expectancy": "12-15 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Double"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 5,
+    "Adaptability Level": 3,
+    "Trainability Level": 4,
+    "Energy Level": 4,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 4
+  }
+}

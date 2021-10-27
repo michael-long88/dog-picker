@@ -1,0 +1,422 @@
+{
+  "Boerboel": {
+    "Height": [
+      "24-27 inches (male)",
+      "22-25 inches (female)"
+    ],
+    "Weight": "150-200 pounds",
+    "Life Expectancy": "9-11 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 4,
+    "Good With Other Dogs": 2,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 3,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 5,
+    "Adaptability Level": 3,
+    "Trainability Level": 4,
+    "Energy Level": 3,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 4
+  },
+  "Bohemian Shepherd": {
+    "Height": [
+      "20.5-21.7 inches (males)",
+      "19.3-20.5 inches (females)"
+    ],
+    "Weight": [
+      "41-60 pounds (males)",
+      "37-53 pounds (females)"
+    ],
+    "Life Expectancy": "12-15 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Double",
+      "Wavy"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 4,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 4,
+    "Trainability Level": 4,
+    "Energy Level": 3,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 4
+  },
+  "Bolognese": {
+    "Height": "10-12 inches",
+    "Weight": "5.5-9 pounds",
+    "Life Expectancy": "12-14 years",
+    "Affectionate With Family": 4,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 1,
+    "Coat Grooming Frequency": 3,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Wavy",
+      "Silky"
+    ],
+    "Coat Length": [
+      "Long"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 2,
+    "Adaptability Level": 4,
+    "Trainability Level": 3,
+    "Energy Level": 4,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 3
+  },
+  "Border Collie": {
+    "Height": [
+      "19-22 inches (male)",
+      "18-21 inches (female)"
+    ],
+    "Weight": "30-55 pounds",
+    "Life Expectancy": "12-15 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 3,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Double",
+      "Wavy"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 4,
+    "Playfulness Level": 5,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 5,
+    "Trainability Level": 5,
+    "Energy Level": 5,
+    "Barking Level": 4,
+    "Mental Stimulation Needs": 5
+  },
+  "Border Terrier": {
+    "Height": "12-15 inches",
+    "Weight": [
+      "13-15.5 pounds (male)",
+      "11.5-14 pounds (female)"
+    ],
+    "Life Expectancy": "12-15 years",
+    "Affectionate With Family": 4,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 2,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 1,
+    "Coat Type": [],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 4,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 4,
+    "Trainability Level": 4,
+    "Energy Level": 3,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 3
+  },
+  "Borzoi": {
+    "Height": [
+      "28 inches & up (male)",
+      "26 inches & up (female)"
+    ],
+    "Weight": [
+      "75-105 pounds (male)",
+      "60-85 pounds (female)"
+    ],
+    "Life Expectancy": "9-14 years",
+    "Affectionate With Family": 3,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Curly",
+      "Silky"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 3,
+    "Trainability Level": 2,
+    "Energy Level": 4,
+    "Barking Level": 2,
+    "Mental Stimulation Needs": 4
+  },
+  "Boston Terrier": {
+    "Height": "15-17 inches",
+    "Weight": "12-25 pounds",
+    "Life Expectancy": "11-13 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 4,
+    "Shedding Level": 2,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 5,
+    "Playfulness Level": 5,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 3,
+    "Trainability Level": 4,
+    "Energy Level": 4,
+    "Barking Level": 2,
+    "Mental Stimulation Needs": 3
+  },
+  "Bouvier des Flandres": {
+    "Height": [
+      "24.5-27.5 inches (male)",
+      "23.5-26.5 inches (female)"
+    ],
+    "Weight": "70-110 pounds",
+    "Life Expectancy": "10-12 years",
+    "Affectionate With Family": 3,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 4,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Rough",
+      "Double"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 4,
+    "Adaptability Level": 3,
+    "Trainability Level": 4,
+    "Energy Level": 4,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 3
+  },
+  "Boxer": {
+    "Height": [
+      "23-25 inches (male)",
+      "21.5-23.5 inches (female)"
+    ],
+    "Weight": [
+      "65-80 pounds (male)",
+      "females are about 15 pounds less than male"
+    ],
+    "Life Expectancy": "10-12 years",
+    "Affectionate With Family": 4,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 2,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 3,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 4,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 4,
+    "Adaptability Level": 3,
+    "Trainability Level": 4,
+    "Energy Level": 4,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 4
+  },
+  "Boykin Spaniel": {
+    "Height": [
+      "15.5-18 inches (male)",
+      "14-16.5 inches (female)"
+    ],
+    "Weight": [
+      "30-40 pounds (male)",
+      "25-35 pounds (female)"
+    ],
+    "Life Expectancy": "10-15 years",
+    "Affectionate With Family": 3,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 5,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 3,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Double",
+      "Wavy"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 4,
+    "Trainability Level": 4,
+    "Energy Level": 4,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 3
+  },
+  "Bracco Italiano": {
+    "Height": "21-27 inches",
+    "Weight": "55-90 pounds",
+    "Life Expectancy": "10-14 years",
+    "Affectionate With Family": 3,
+    "Good With Young Children": 4,
+    "Good With Other Dogs": 4,
+    "Shedding Level": 2,
+    "Coat Grooming Frequency": 1,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 3,
+    "Trainability Level": 5,
+    "Energy Level": 4,
+    "Barking Level": 2,
+    "Mental Stimulation Needs": 3
+  },
+  "Braque du Bourbonnais": {
+    "Height": "19-22.5 inches",
+    "Weight": "35-53 pounds",
+    "Life Expectancy": "10-12 years",
+    "Affectionate With Family": 3,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 4,
+    "Shedding Level": 2,
+    "Coat Grooming Frequency": 1,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 3,
+    "Trainability Level": 5,
+    "Energy Level": 4,
+    "Barking Level": 2,
+    "Mental Stimulation Needs": 3
+  },
+  "Braque Francais Pyrenean": {
+    "Height": "18.5-23 inches",
+    "Weight": "40-55 pounds",
+    "Life Expectancy": "",
+    "Affectionate With Family": 3,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 5,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 1,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 3,
+    "Trainability Level": 3,
+    "Energy Level": 5,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 3
+  },
+  "Briard": {
+    "Height": [
+      "23-27 inches (male)",
+      "22-25.5 inches (female)"
+    ],
+    "Weight": "55-100 pounds",
+    "Life Expectancy": "12 years",
+    "Affectionate With Family": 3,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 1,
+    "Coat Grooming Frequency": 4,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Double",
+      "Wavy"
+    ],
+    "Coat Length": [
+      "Long"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 4,
+    "Adaptability Level": 3,
+    "Trainability Level": 3,
+    "Energy Level": 3,
+    "Barking Level": 1,
+    "Mental Stimulation Needs": 3
+  },
+  "Brittany": {
+    "Height": "17.5-20.5 inches",
+    "Weight": "30-40 pounds",
+    "Life Expectancy": "12-14 years",
+    "Affectionate With Family": 3,
+    "Good With Young Children": 4,
+    "Good With Other Dogs": 4,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 3,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Double",
+      "Wavy"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 3,
+    "Trainability Level": 5,
+    "Energy Level": 5,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 4
+  }
+}

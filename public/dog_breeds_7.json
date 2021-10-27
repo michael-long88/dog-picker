@@ -1,0 +1,415 @@
+{
+  "Dalmatian": {
+    "Height": "19-24 inches",
+    "Weight": "45-70 pounds",
+    "Life Expectancy": "11-13 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 4,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 4,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 4,
+    "Adaptability Level": 4,
+    "Trainability Level": 4,
+    "Energy Level": 4,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 4
+  },
+  "Dandie Dinmont Terrier": {
+    "Height": "8-11 inches",
+    "Weight": "18-24 pounds",
+    "Life Expectancy": "12-15 years",
+    "Affectionate With Family": 4,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 2,
+    "Coat Grooming Frequency": 3,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Double"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 4,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 4,
+    "Adaptability Level": 3,
+    "Trainability Level": 4,
+    "Energy Level": 3,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 3
+  },
+  "Danish-Swedish Farmdog": {
+    "Height": "12.5-14.5 inches",
+    "Weight": "15-20 pounds",
+    "Life Expectancy": "11-13 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 5,
+    "Shedding Level": 2,
+    "Coat Grooming Frequency": 1,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 5,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 4,
+    "Adaptability Level": 4,
+    "Trainability Level": 4,
+    "Energy Level": 4,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 4
+  },
+  "Deutscher Wachtelhund": {
+    "Height": "18-21 inches",
+    "Weight": "40-55 pounds",
+    "Life Expectancy": "12-14 years",
+    "Affectionate With Family": 4,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 2,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Double",
+      "Wavy"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 3,
+    "Trainability Level": 4,
+    "Energy Level": 3,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 3
+  },
+  "Doberman Pinscher": {
+    "Height": [
+      "26-28 inches (male)",
+      "24-26 inches (female)"
+    ],
+    "Weight": [
+      "75-100 pounds (male)",
+      "60-90 pounds (female)"
+    ],
+    "Life Expectancy": "10-12 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 4,
+    "Coat Grooming Frequency": 1,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 4,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 5,
+    "Adaptability Level": 4,
+    "Trainability Level": 5,
+    "Energy Level": 5,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 4
+  },
+  "Dogo Argentino": {
+    "Height": [
+      "24-27 inches (male)",
+      "23.5-26 inches (female)"
+    ],
+    "Weight": "80-100 pounds",
+    "Life Expectancy": "9-15 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 4,
+    "Coat Grooming Frequency": 1,
+    "Drooling Level": 3,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 4,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 5,
+    "Adaptability Level": 4,
+    "Trainability Level": 5,
+    "Energy Level": 5,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 4
+  },
+  "Dogue de Bordeaux": {
+    "Height": [
+      "23.27 inches (male)",
+      "23-26 inches (female)"
+    ],
+    "Weight": [
+      "110 pounds & up (male)",
+      "99 pounds & up (female)"
+    ],
+    "Life Expectancy": "5-8 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 4,
+    "Coat Grooming Frequency": 1,
+    "Drooling Level": 5,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 5,
+    "Adaptability Level": 4,
+    "Trainability Level": 4,
+    "Energy Level": 3,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 4
+  },
+  "Drentsche Patrijshond": {
+    "Height": "21-25 inches",
+    "Weight": "48-73 pounds",
+    "Life Expectancy": "11'“14 years",
+    "Affectionate With Family": 4,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Double",
+      "Silky"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 4,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 5,
+    "Trainability Level": 5,
+    "Energy Level": 5,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 5
+  },
+  "Drever": {
+    "Height": "12-15 inches",
+    "Weight": "35-40 pounds",
+    "Life Expectancy": "~15 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 5,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 1,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Double"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 4,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 5,
+    "Trainability Level": 5,
+    "Energy Level": 4,
+    "Barking Level": 4,
+    "Mental Stimulation Needs": 4
+  },
+  "Dutch Shepherd": {
+    "Height": "21.5-24.5 inches",
+    "Weight": "42-75 pounds",
+    "Life Expectancy": "11-14 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Double"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 5,
+    "Adaptability Level": 4,
+    "Trainability Level": 5,
+    "Energy Level": 5,
+    "Barking Level": 2,
+    "Mental Stimulation Needs": 5
+  },
+  "English Cocker Spaniel": {
+    "Height": [
+      "16-17 inches (male)",
+      "15-16 inches (female)"
+    ],
+    "Weight": [
+      "28-34 pounds (male)",
+      "26-32 pounds (female)"
+    ],
+    "Life Expectancy": "12-14 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 5,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 3,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Double"
+    ],
+    "Coat Length": [
+      "Medium",
+      "Long"
+    ],
+    "Openness To Strangers": 4,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 4,
+    "Trainability Level": 4,
+    "Energy Level": 3,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 4
+  },
+  "English Foxhound": {
+    "Height": "24 inches",
+    "Weight": "60-75 pounds",
+    "Life Expectancy": "10-13 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 5,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 1,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Double"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 4,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 4,
+    "Trainability Level": 4,
+    "Energy Level": 4,
+    "Barking Level": 5,
+    "Mental Stimulation Needs": 4
+  },
+  "English Setter": {
+    "Height": [
+      "25-27 inches (male)",
+      "23-25 inches (female)"
+    ],
+    "Weight": [
+      "65-80 pounds (male)",
+      "45-55 pounds (female)"
+    ],
+    "Life Expectancy": "12 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 4,
+    "Good With Other Dogs": 4,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 3,
+    "Drooling Level": 3,
+    "Coat Type": [
+      "Double",
+      "Silky"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 4,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 4,
+    "Trainability Level": 4,
+    "Energy Level": 3,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 4
+  },
+  "English Springer Spaniel": {
+    "Height": [
+      "20 inches (male)",
+      "19 inches (female)"
+    ],
+    "Weight": [
+      "50 pounds (male)",
+      "40 pounds (female)"
+    ],
+    "Life Expectancy": "12-14 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 4,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 3,
+    "Coat Type": [
+      "Double"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 4,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 4,
+    "Trainability Level": 5,
+    "Energy Level": 4,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 4
+  },
+  "English Toy Spaniel": {
+    "Height": "9-10 inches",
+    "Weight": "8-14 pounds",
+    "Life Expectancy": "10-12 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 5,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 3,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Double",
+      "Silky"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 4,
+    "Trainability Level": 3,
+    "Energy Level": 3,
+    "Barking Level": 2,
+    "Mental Stimulation Needs": 3
+  }
+}

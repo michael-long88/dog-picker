@@ -1,0 +1,406 @@
+{
+  "Plott Hound": {
+    "Height": [
+      "20-25 inches (male)",
+      "20-23 inches (female)"
+    ],
+    "Weight": [
+      "50-60 pounds (male)",
+      "40-55 pounds (female)"
+    ],
+    "Life Expectancy": "12-14 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 5,
+    "Shedding Level": 2,
+    "Coat Grooming Frequency": 1,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 4,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 4,
+    "Adaptability Level": 4,
+    "Trainability Level": 4,
+    "Energy Level": 4,
+    "Barking Level": 4,
+    "Mental Stimulation Needs": 3
+  },
+  "Pointer": {
+    "Height": [
+      "25-28 inches (male)",
+      "23-26 inches (female)"
+    ],
+    "Weight": [
+      "55-75 pounds (male)",
+      "45-65 pounds (female)"
+    ],
+    "Life Expectancy": "12-17 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 5,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 4,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 4,
+    "Trainability Level": 5,
+    "Energy Level": 4,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 4
+  },
+  "Polish Lowland Sheepdog": {
+    "Height": [
+      "18-20 inches (male)",
+      "17-19 inches (female)"
+    ],
+    "Weight": "30-50 pounds",
+    "Life Expectancy": "12-14 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 2,
+    "Coat Grooming Frequency": 4,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Double"
+    ],
+    "Coat Length": [
+      "Long"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 5,
+    "Adaptability Level": 5,
+    "Trainability Level": 4,
+    "Energy Level": 3,
+    "Barking Level": 4,
+    "Mental Stimulation Needs": 4
+  },
+  "Pomeranian": {
+    "Height": "6-7 inches",
+    "Weight": "3-7 pounds",
+    "Life Expectancy": "12-16 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 2,
+    "Coat Grooming Frequency": 3,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Double"
+    ],
+    "Coat Length": [
+      "Long"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 4,
+    "Adaptability Level": 4,
+    "Trainability Level": 3,
+    "Energy Level": 3,
+    "Barking Level": 4,
+    "Mental Stimulation Needs": 3
+  },
+  "Poodle (Miniature)": {
+    "Height": "10-15 inches",
+    "Weight": "10-15 pounds",
+    "Life Expectancy": "10-18 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 1,
+    "Coat Grooming Frequency": 4,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Curly"
+    ],
+    "Coat Length": [
+      "Long"
+    ],
+    "Openness To Strangers": 5,
+    "Playfulness Level": 5,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 4,
+    "Trainability Level": 5,
+    "Energy Level": 4,
+    "Barking Level": 4,
+    "Mental Stimulation Needs": 5
+  },
+  "Poodle (Standard)": {
+    "Height": [
+      "over 15 inches (standard)",
+      "60-70 pounds (male standard)"
+    ],
+    "Weight": "40-50 pounds (female standard)",
+    "Life Expectancy": "10 -18 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 1,
+    "Coat Grooming Frequency": 4,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Curly"
+    ],
+    "Coat Length": [
+      "Long"
+    ],
+    "Openness To Strangers": 5,
+    "Playfulness Level": 5,
+    "Watchdog/Protective Nature": 5,
+    "Adaptability Level": 4,
+    "Trainability Level": 5,
+    "Energy Level": 4,
+    "Barking Level": 4,
+    "Mental Stimulation Needs": 5
+  },
+  "Poodle (Toy)": {
+    "Height": "No more than 10 inches",
+    "Weight": "4-6 pounds",
+    "Life Expectancy": "10-18 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 1,
+    "Coat Grooming Frequency": 4,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Curly"
+    ],
+    "Coat Length": [
+      "Long"
+    ],
+    "Openness To Strangers": 5,
+    "Playfulness Level": 5,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 4,
+    "Trainability Level": 5,
+    "Energy Level": 4,
+    "Barking Level": 4,
+    "Mental Stimulation Needs": 5
+  },
+  "Porcelaine": {
+    "Height": "22-23 inches",
+    "Weight": "55-62 pounds",
+    "Life Expectancy": "12-13 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 5,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 1,
+    "Drooling Level": 3,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 5,
+    "Playfulness Level": 5,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 4,
+    "Trainability Level": 5,
+    "Energy Level": 4,
+    "Barking Level": 2,
+    "Mental Stimulation Needs": 4
+  },
+  "Portuguese Podengo": {
+    "Height": "22-28 inches (large) 16-22 inches (medium)",
+    "Weight": "44-66 pounds (large) 35-44 pounds (medium)",
+    "Life Expectancy": "10-15 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 5,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Wiry",
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 4,
+    "Trainability Level": 3,
+    "Energy Level": 4,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 4
+  },
+  "Portuguese Podengo Pequeno": {
+    "Height": "8-12 inches",
+    "Weight": "9-13 pounds",
+    "Life Expectancy": "12-15 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 5,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Wiry",
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 4,
+    "Trainability Level": 3,
+    "Energy Level": 4,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 4
+  },
+  "Portuguese Pointer": {
+    "Height": "20.5-22 inches",
+    "Weight": "35-59 pounds",
+    "Life Expectancy": "~14 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 1,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 4,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 4,
+    "Trainability Level": 5,
+    "Energy Level": 5,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 5
+  },
+  "Portuguese Sheepdog": {
+    "Height": "16.5-21.5 inches",
+    "Weight": "37.5-59 pounds",
+    "Life Expectancy": "12-13 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 2,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Wavy"
+    ],
+    "Coat Length": [
+      "Long"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 5,
+    "Adaptability Level": 4,
+    "Trainability Level": 5,
+    "Energy Level": 4,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 4
+  },
+  "Portuguese Water Dog": {
+    "Height": [
+      "20-23 inches (male)",
+      "17-21 inches (female)"
+    ],
+    "Weight": [
+      "42-60 pounds (male)",
+      "35-50 pounds (female)"
+    ],
+    "Life Expectancy": "11-13 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 4,
+    "Shedding Level": 2,
+    "Coat Grooming Frequency": 4,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Curly",
+      "Wavy"
+    ],
+    "Coat Length": [
+      "Long"
+    ],
+    "Openness To Strangers": 4,
+    "Playfulness Level": 5,
+    "Watchdog/Protective Nature": 4,
+    "Adaptability Level": 5,
+    "Trainability Level": 5,
+    "Energy Level": 5,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 5
+  },
+  "Pudelpointer": {
+    "Height": "22-26 inches",
+    "Weight": "45-70 pounds",
+    "Life Expectancy": "~14 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 1,
+    "Drooling Level": 3,
+    "Coat Type": [
+      "Wiry",
+      "Smooth",
+      "Rough"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 5,
+    "Trainability Level": 5,
+    "Energy Level": 4,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 4
+  },
+  "Pug": {
+    "Height": "10-13 inches",
+    "Weight": "14-18 pounds",
+    "Life Expectancy": "13-15 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 4,
+    "Shedding Level": 4,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 5,
+    "Playfulness Level": 5,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 5,
+    "Trainability Level": 4,
+    "Energy Level": 3,
+    "Barking Level": 1,
+    "Mental Stimulation Needs": 3
+  }
+}

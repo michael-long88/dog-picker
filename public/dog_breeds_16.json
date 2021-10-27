@@ -1,0 +1,422 @@
+{
+  "Samoyed": {
+    "Height": [
+      "21-23.5 inches (male)",
+      "19-21 inches (female)"
+    ],
+    "Weight": [
+      "45-65 pounds (male)",
+      "35-50 pounds (female)"
+    ],
+    "Life Expectancy": "12-14 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 3,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Double"
+    ],
+    "Coat Length": [
+      "Long"
+    ],
+    "Openness To Strangers": 5,
+    "Playfulness Level": 5,
+    "Watchdog/Protective Nature": 4,
+    "Adaptability Level": 4,
+    "Trainability Level": 4,
+    "Energy Level": 4,
+    "Barking Level": 5,
+    "Mental Stimulation Needs": 4
+  },
+  "Schapendoes": {
+    "Height": "16-20 inches",
+    "Weight": "26-55 pounds",
+    "Life Expectancy": "12-15 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 5,
+    "Shedding Level": 2,
+    "Coat Grooming Frequency": 3,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Double"
+    ],
+    "Coat Length": [
+      "Long"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 5,
+    "Adaptability Level": 4,
+    "Trainability Level": 5,
+    "Energy Level": 4,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 4
+  },
+  "Schipperke": {
+    "Height": [
+      "11-13 inches (male)",
+      "10-12 inches (female)"
+    ],
+    "Weight": "10-16 pounds",
+    "Life Expectancy": "12-14 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Double"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 5,
+    "Adaptability Level": 4,
+    "Trainability Level": 4,
+    "Energy Level": 3,
+    "Barking Level": 4,
+    "Mental Stimulation Needs": 3
+  },
+  "Scottish Deerhound": {
+    "Height": [
+      "30-32 inches (male)",
+      "28 inches & up (female)"
+    ],
+    "Weight": [
+      "85-110 pounds (male)",
+      "75-95 pounds (female)"
+    ],
+    "Life Expectancy": "8-11 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 5,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 1,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Wiry",
+      "Double"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 3,
+    "Trainability Level": 3,
+    "Energy Level": 3,
+    "Barking Level": 1,
+    "Mental Stimulation Needs": 3
+  },
+  "Scottish Terrier": {
+    "Height": [
+      "10 inches",
+      "19-22 pounds (male)"
+    ],
+    "Weight": "18-21 pounds (female)",
+    "Life Expectancy": "12 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 2,
+    "Shedding Level": 2,
+    "Coat Grooming Frequency": 3,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Wiry",
+      "Double"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 5,
+    "Adaptability Level": 4,
+    "Trainability Level": 3,
+    "Energy Level": 3,
+    "Barking Level": 4,
+    "Mental Stimulation Needs": 4
+  },
+  "Sealyham Terrier": {
+    "Height": [
+      "10.5 inches",
+      "23-24 pounds (male)"
+    ],
+    "Weight": "slightly less (females)",
+    "Life Expectancy": "12-14 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 3,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Wiry",
+      "Double"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 4,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 5,
+    "Adaptability Level": 4,
+    "Trainability Level": 4,
+    "Energy Level": 3,
+    "Barking Level": 4,
+    "Mental Stimulation Needs": 4
+  },
+  "Segugio Italiano": {
+    "Height": "19 - 23 inches",
+    "Weight": "40 - 60 lbs",
+    "Life Expectancy": "11 - 13 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 5,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 1,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 5,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 3,
+    "Trainability Level": 3,
+    "Energy Level": 4,
+    "Barking Level": 4,
+    "Mental Stimulation Needs": 3
+  },
+  "Shetland Sheepdog": {
+    "Height": "13-16 inches",
+    "Weight": "15-25 pounds",
+    "Life Expectancy": "12-14 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 5,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 3,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Double"
+    ],
+    "Coat Length": [
+      "Long"
+    ],
+    "Openness To Strangers": 2,
+    "Playfulness Level": 5,
+    "Watchdog/Protective Nature": 5,
+    "Adaptability Level": 5,
+    "Trainability Level": 5,
+    "Energy Level": 4,
+    "Barking Level": 5,
+    "Mental Stimulation Needs": 4
+  },
+  "Shiba Inu": {
+    "Height": [
+      "14.5-16.5 inches (male)",
+      "13.5-15.5 inches (female)"
+    ],
+    "Weight": [
+      "23 pounds (male)",
+      "17 pounds (female)"
+    ],
+    "Life Expectancy": "13-16 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Double"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 5,
+    "Adaptability Level": 3,
+    "Trainability Level": 2,
+    "Energy Level": 3,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 4
+  },
+  "Shih Tzu": {
+    "Height": "9-10.5 inches",
+    "Weight": "9-16 pounds",
+    "Life Expectancy": "10-18 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 5,
+    "Shedding Level": 1,
+    "Coat Grooming Frequency": 4,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Double"
+    ],
+    "Coat Length": [
+      "Long"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 5,
+    "Trainability Level": 4,
+    "Energy Level": 3,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 3
+  },
+  "Shikoku": {
+    "Height": "17-22 inches",
+    "Weight": "35-55 pounds",
+    "Life Expectancy": "10-12 years",
+    "Affectionate With Family": 3,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 3,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Double"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 3,
+    "Trainability Level": 3,
+    "Energy Level": 3,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 3
+  },
+  "Siberian Husky": {
+    "Height": [
+      "21-23.5 inches (male)",
+      "20-22 inches (female)"
+    ],
+    "Weight": [
+      "45-60 pounds (male)",
+      "35-50 pounds (female)"
+    ],
+    "Life Expectancy": "12-14 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 5,
+    "Shedding Level": 4,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Double"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 5,
+    "Playfulness Level": 5,
+    "Watchdog/Protective Nature": 1,
+    "Adaptability Level": 4,
+    "Trainability Level": 3,
+    "Energy Level": 5,
+    "Barking Level": 5,
+    "Mental Stimulation Needs": 4
+  },
+  "Silky Terrier": {
+    "Height": "9-10 inches",
+    "Weight": "around 10 pounds",
+    "Life Expectancy": "13-15 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 2,
+    "Coat Grooming Frequency": 3,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Silky"
+    ],
+    "Coat Length": [
+      "Long"
+    ],
+    "Openness To Strangers": 4,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 5,
+    "Adaptability Level": 4,
+    "Trainability Level": 4,
+    "Energy Level": 3,
+    "Barking Level": 4,
+    "Mental Stimulation Needs": 3
+  },
+  "Skye Terrier": {
+    "Height": [
+      "10 inches (male)",
+      "9.5 inches (female)"
+    ],
+    "Weight": [
+      "35-45 pounds (male)",
+      "slightly lighter (female)"
+    ],
+    "Life Expectancy": "12-14 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 3,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Double"
+    ],
+    "Coat Length": [
+      "Long"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 3,
+    "Trainability Level": 3,
+    "Energy Level": 3,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 3
+  },
+  "Sloughi": {
+    "Height": [
+      "26-29 inches (male)",
+      "24-27 inches (female)"
+    ],
+    "Weight": "35-50 pounds",
+    "Life Expectancy": "10-15 years",
+    "Affectionate With Family": 4,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 1,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 2,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 2,
+    "Adaptability Level": 3,
+    "Trainability Level": 3,
+    "Energy Level": 4,
+    "Barking Level": 2,
+    "Mental Stimulation Needs": 3
+  }
+}

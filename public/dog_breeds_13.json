@@ -1,0 +1,418 @@
+{
+  "Norwegian Buhund": {
+    "Height": [
+      "17-18.5 inches (male)",
+      "16-17.5 inches (female)"
+    ],
+    "Weight": [
+      "31-40 pounds (male)",
+      "26-35 pounds (female)"
+    ],
+    "Life Expectancy": "12-15 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Double"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 4,
+    "Adaptability Level": 4,
+    "Trainability Level": 3,
+    "Energy Level": 4,
+    "Barking Level": 4,
+    "Mental Stimulation Needs": 4
+  },
+  "Norwegian Elkhound": {
+    "Height": [
+      "20.5 inches (male)",
+      "19.5 inches (female)"
+    ],
+    "Weight": [
+      "55 pounds (male)",
+      "48 pounds (female)"
+    ],
+    "Life Expectancy": "12-15 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Double"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 4,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 5,
+    "Adaptability Level": 4,
+    "Trainability Level": 4,
+    "Energy Level": 4,
+    "Barking Level": 4,
+    "Mental Stimulation Needs": 4
+  },
+  "Norwegian Lundehund": {
+    "Height": [
+      "13-15 inches (male)",
+      "12-14 inches (female)"
+    ],
+    "Weight": "20-30 pounds",
+    "Life Expectancy": "12-15 years",
+    "Affectionate With Family": 3,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Double"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 3,
+    "Trainability Level": 3,
+    "Energy Level": 3,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 3
+  },
+  "Norwich Terrier": {
+    "Height": "10 inches",
+    "Weight": "12 pounds",
+    "Life Expectancy": "12-15 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Wiry",
+      "Double"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 5,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 4,
+    "Adaptability Level": 4,
+    "Trainability Level": 3,
+    "Energy Level": 4,
+    "Barking Level": 4,
+    "Mental Stimulation Needs": 4
+  },
+  "Nova Scotia Duck Tolling Retriever": {
+    "Height": [
+      "18-21 inches (male)",
+      "17-20 inches (female)"
+    ],
+    "Weight": "35-50 pounds",
+    "Life Expectancy": "12-14 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 4,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Double"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 5,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 4,
+    "Trainability Level": 5,
+    "Energy Level": 5,
+    "Barking Level": 2,
+    "Mental Stimulation Needs": 4
+  },
+  "Old English Sheepdog": {
+    "Height": [
+      "22 inches & up (male)",
+      "21 inches & up (female)"
+    ],
+    "Weight": "60-100 pounds",
+    "Life Expectancy": "10-12 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 4,
+    "Drooling Level": 3,
+    "Coat Type": [
+      "Double"
+    ],
+    "Coat Length": [
+      "Long"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 4,
+    "Adaptability Level": 4,
+    "Trainability Level": 4,
+    "Energy Level": 3,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 4
+  },
+  "Otterhound": {
+    "Height": [
+      "27 inches (male)",
+      "24 inches (female)"
+    ],
+    "Weight": [
+      "115 pounds (male)",
+      "80 pounds (female)"
+    ],
+    "Life Expectancy": "10-13 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 2,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 3,
+    "Coat Type": [
+      "Rough",
+      "Double"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 4,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 4,
+    "Trainability Level": 4,
+    "Energy Level": 3,
+    "Barking Level": 5,
+    "Mental Stimulation Needs": 3
+  },
+  "Papillon": {
+    "Height": "8-11 inches",
+    "Weight": "5-10 pounds",
+    "Life Expectancy": "14-16 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Silky"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 5,
+    "Playfulness Level": 5,
+    "Watchdog/Protective Nature": 4,
+    "Adaptability Level": 5,
+    "Trainability Level": 5,
+    "Energy Level": 4,
+    "Barking Level": 5,
+    "Mental Stimulation Needs": 5
+  },
+  "Parson Russell Terrier": {
+    "Height": [
+      "14 inches (male)",
+      "13 inches (female)"
+    ],
+    "Weight": "13-17 pounds",
+    "Life Expectancy": "13-15 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 5,
+    "Shedding Level": 2,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Smooth",
+      "Double"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 4,
+    "Trainability Level": 4,
+    "Energy Level": 5,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 4
+  },
+  "Pekingese": {
+    "Height": "6-9 inches",
+    "Weight": "up to 14 pounds",
+    "Life Expectancy": "12-14 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 3,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Double"
+    ],
+    "Coat Length": [
+      "Long"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 4,
+    "Adaptability Level": 4,
+    "Trainability Level": 3,
+    "Energy Level": 3,
+    "Barking Level": 1,
+    "Mental Stimulation Needs": 3
+  },
+  "Pembroke Welsh Corgi": {
+    "Height": [
+      "10-12 inches",
+      "up to 30 pounds (male)"
+    ],
+    "Weight": "up to 28 pounds (female)",
+    "Life Expectancy": "12-13 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 4,
+    "Shedding Level": 4,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Double"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 4,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 5,
+    "Adaptability Level": 4,
+    "Trainability Level": 4,
+    "Energy Level": 4,
+    "Barking Level": 4,
+    "Mental Stimulation Needs": 4
+  },
+  "Perro de Presa Canario": {
+    "Height": "22-26 inches",
+    "Weight": "84-110 pounds",
+    "Life Expectancy": "9-11 years",
+    "Affectionate With Family": 2,
+    "Good With Young Children": 1,
+    "Good With Other Dogs": 1,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 1,
+    "Drooling Level": 4,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 1,
+    "Playfulness Level": 1,
+    "Watchdog/Protective Nature": 5,
+    "Adaptability Level": 2,
+    "Trainability Level": 3,
+    "Energy Level": 2,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 3
+  },
+  "Peruvian Inca Orchid": {
+    "Height": "9.75-15.75 inches (small) 15.75-19.75 inches (medium) 19.75-25.75 inches (large)",
+    "Weight": "8.5-17.5 pounds (small) 17.5-26.5 pounds (medium) 26.5-55 pounds (large)",
+    "Life Expectancy": "12-14 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 1,
+    "Coat Grooming Frequency": 1,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Hairless",
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 3,
+    "Trainability Level": 3,
+    "Energy Level": 4,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 4
+  },
+  "Petit Basset Griffon Vendéen": {
+    "Height": "13-15 inches",
+    "Weight": "25-40 pounds",
+    "Life Expectancy": "14-16 years",
+    "Affectionate With Family": 4,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 5,
+    "Shedding Level": 2,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Rough",
+      "Double"
+    ],
+    "Coat Length": [
+      "Long"
+    ],
+    "Openness To Strangers": 4,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 4,
+    "Adaptability Level": 4,
+    "Trainability Level": 3,
+    "Energy Level": 4,
+    "Barking Level": 5,
+    "Mental Stimulation Needs": 4
+  },
+  "Pharaoh Hound": {
+    "Height": [
+      "23-25 inches (male)",
+      "21-24 inches (female)"
+    ],
+    "Weight": "45-55 pounds",
+    "Life Expectancy": "12-14 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 5,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 3,
+    "Trainability Level": 4,
+    "Energy Level": 4,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 4
+  }
+}

@@ -1,0 +1,422 @@
+{
+  "Appenzeller Sennenhund": {
+    "Height": "19-22 inches",
+    "Weight": "48-70 pounds",
+    "Life Expectancy": "12-15 years",
+    "Affectionate With Family": 3,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 3,
+    "Trainability Level": 3,
+    "Energy Level": 3,
+    "Barking Level": 4,
+    "Mental Stimulation Needs": 3
+  },
+  "Australian Cattle Dog": {
+    "Height": [
+      "18-20 inches (male)",
+      "17-19 inches (female)"
+    ],
+    "Weight": "35-50 pounds",
+    "Life Expectancy": "12-16 years",
+    "Affectionate With Family": 3,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 1,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Smooth",
+      "Double"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 4,
+    "Adaptability Level": 3,
+    "Trainability Level": 4,
+    "Energy Level": 5,
+    "Barking Level": 1,
+    "Mental Stimulation Needs": 4
+  },
+  "Australian Kelpie": {
+    "Height": "17-20 inches",
+    "Weight": "",
+    "Life Expectancy": "10-13 years",
+    "Affectionate With Family": 3,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 1,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Smooth",
+      "Double"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 4,
+    "Adaptability Level": 3,
+    "Trainability Level": 4,
+    "Energy Level": 5,
+    "Barking Level": 1,
+    "Mental Stimulation Needs": 4
+  },
+  "Australian Shepherd": {
+    "Height": [
+      "20-23 inches (male)",
+      "18-21 inches (female)"
+    ],
+    "Weight": [
+      "50-65 pounds (male)",
+      "40-55 pounds (female)"
+    ],
+    "Life Expectancy": "12-15 years",
+    "Affectionate With Family": 3,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Double"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 3,
+    "Trainability Level": 5,
+    "Energy Level": 5,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 5
+  },
+  "Australian Stumpy Tail Cattle Dog": {
+    "Height": [
+      "18-20 inches (males)",
+      "17-19 inches (females)"
+    ],
+    "Weight": [
+      "38-45 pounds (males)",
+      "32-35 pounds (females)"
+    ],
+    "Life Expectancy": "12-15 years",
+    "Affectionate With Family": 3,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 1,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Double"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 4,
+    "Adaptability Level": 3,
+    "Trainability Level": 4,
+    "Energy Level": 5,
+    "Barking Level": 1,
+    "Mental Stimulation Needs": 4
+  },
+  "Australian Terrier": {
+    "Height": "10-11 inches",
+    "Weight": "15-20 pounds",
+    "Life Expectancy": "11-15 years",
+    "Affectionate With Family": 3,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 1,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Wiry"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 4,
+    "Adaptability Level": 3,
+    "Trainability Level": 4,
+    "Energy Level": 4,
+    "Barking Level": 5,
+    "Mental Stimulation Needs": 4
+  },
+  "Azawakh": {
+    "Height": [
+      "25-29 inches (male)",
+      "23.5-27.5 inches (female)"
+    ],
+    "Weight": [
+      "44-55 pounds (male)",
+      "33-44 pounds (female)"
+    ],
+    "Life Expectancy": "12-15 years",
+    "Affectionate With Family": 3,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 2,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 1,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 3,
+    "Trainability Level": 2,
+    "Energy Level": 3,
+    "Barking Level": 1,
+    "Mental Stimulation Needs": 3
+  },
+  "Barbado da Terceira": {
+    "Height": [
+      "20 1/2 - 22 inches (males)",
+      "19 - 21 inches (females)"
+    ],
+    "Weight": [
+      "55-60 lbs (males)",
+      "46-57 lbs (females)"
+    ],
+    "Life Expectancy": "12 - 14 years",
+    "Affectionate With Family": [],
+    "Good With Young Children": 4,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 1,
+    "Coat Grooming Frequency": [],
+    "Drooling Level": [],
+    "Coat Type": [],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": [],
+    "Playfulness Level": [],
+    "Watchdog/Protective Nature": [],
+    "Adaptability Level": [],
+    "Trainability Level": 5,
+    "Energy Level": 5,
+    "Barking Level": 5,
+    "Mental Stimulation Needs": []
+  },
+  "Barbet": {
+    "Height": "19-24.5 inches",
+    "Weight": "35-65 pounds",
+    "Life Expectancy": "12-14 years",
+    "Affectionate With Family": 4,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 5,
+    "Shedding Level": 1,
+    "Coat Grooming Frequency": 3,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Curly",
+      "Wavy"
+    ],
+    "Coat Length": [
+      "Medium",
+      "Long"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 3,
+    "Trainability Level": 4,
+    "Energy Level": 3,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 3
+  },
+  "Basenji": {
+    "Height": [
+      "17 inches (male)",
+      "16 inches (female)"
+    ],
+    "Weight": [
+      "24 pounds (male)",
+      "22 pounds (female)"
+    ],
+    "Life Expectancy": "13-14 years",
+    "Affectionate With Family": 3,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 2,
+    "Coat Grooming Frequency": 1,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 3,
+    "Trainability Level": 2,
+    "Energy Level": 4,
+    "Barking Level": 1,
+    "Mental Stimulation Needs": 4
+  },
+  "Basset Fauve de Bretagne": {
+    "Height": "12.5-15.5 inches",
+    "Weight": "27-35 pounds",
+    "Life Expectancy": "12+ years",
+    "Affectionate With Family": 3,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 4,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Wiry",
+      "Double"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 3,
+    "Trainability Level": 3,
+    "Energy Level": 4,
+    "Barking Level": 4,
+    "Mental Stimulation Needs": 3
+  },
+  "Basset Hound": {
+    "Height": "up to 15 inches",
+    "Weight": "40-65 pounds",
+    "Life Expectancy": "12-13 years",
+    "Affectionate With Family": 3,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 5,
+    "Shedding Level": 2,
+    "Coat Grooming Frequency": 3,
+    "Drooling Level": 4,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 3,
+    "Trainability Level": 3,
+    "Energy Level": 2,
+    "Barking Level": 4,
+    "Mental Stimulation Needs": 3
+  },
+  "Bavarian Mountain Scent Hound": {
+    "Height": "17-20.5 inches",
+    "Weight": "37-66 pounds",
+    "Life Expectancy": "12-15 years",
+    "Affectionate With Family": 3,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 3,
+    "Trainability Level": 4,
+    "Energy Level": 4,
+    "Barking Level": 2,
+    "Mental Stimulation Needs": 4
+  },
+  "Beagle": {
+    "Height": [
+      "13 inches & under",
+      "13-15 inches"
+    ],
+    "Weight": [
+      "under 20 pounds (13 inches & under)",
+      "20-30 pounds (13-15 inches)"
+    ],
+    "Life Expectancy": "10-15 years",
+    "Affectionate With Family": 3,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 5,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 2,
+    "Adaptability Level": 4,
+    "Trainability Level": 3,
+    "Energy Level": 4,
+    "Barking Level": 4,
+    "Mental Stimulation Needs": 4
+  },
+  "Bearded Collie": {
+    "Height": [
+      "21-22 inches (male)",
+      "20-21 inches (female)"
+    ],
+    "Weight": "45-55 pounds",
+    "Life Expectancy": "12-14 years",
+    "Affectionate With Family": 4,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 5,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 4,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Silky"
+    ],
+    "Coat Length": [
+      "Long"
+    ],
+    "Openness To Strangers": 4,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 4,
+    "Trainability Level": 3,
+    "Energy Level": 4,
+    "Barking Level": 5,
+    "Mental Stimulation Needs": 3
+  }
+}

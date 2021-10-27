@@ -1,0 +1,440 @@
+{
+  "Chesapeake Bay Retriever": {
+    "Height": [
+      "23-26 inches (male)",
+      "21-24 inches (female)"
+    ],
+    "Weight": [
+      "65-80 pounds (male)",
+      "55-70 pounds (female)"
+    ],
+    "Life Expectancy": "10-13 years",
+    "Affectionate With Family": 4,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 3,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Wiry",
+      "Wavy"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 4,
+    "Adaptability Level": 4,
+    "Trainability Level": 5,
+    "Energy Level": 4,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 4
+  },
+  "Chihuahua": {
+    "Height": "5-8 inches",
+    "Weight": "Not exceeding 6 pounds",
+    "Life Expectancy": "14-16 years",
+    "Affectionate With Family": 4,
+    "Good With Young Children": 1,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 2,
+    "Coat Grooming Frequency": 1,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short",
+      "Medium"
+    ],
+    "Openness To Strangers": 2,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 4,
+    "Adaptability Level": 4,
+    "Trainability Level": 3,
+    "Energy Level": 4,
+    "Barking Level": 5,
+    "Mental Stimulation Needs": 3
+  },
+  "Chinese Crested": {
+    "Height": "11-13 inches",
+    "Weight": "8-12 pounds",
+    "Life Expectancy": "13-18 years",
+    "Affectionate With Family": 4,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 1,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 1,
+    "Coat Type": [],
+    "Coat Length": [
+      "Short",
+      "Medium"
+    ],
+    "Openness To Strangers": 4,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 4,
+    "Trainability Level": 4,
+    "Energy Level": 3,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 3
+  },
+  "Chinese Shar-Pei": {
+    "Height": "18-20 inches",
+    "Weight": "45-60 pounds",
+    "Life Expectancy": "8-12 years",
+    "Affectionate With Family": 4,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 1,
+    "Drooling Level": 3,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 4,
+    "Adaptability Level": 4,
+    "Trainability Level": 3,
+    "Energy Level": 3,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 3
+  },
+  "Chinook": {
+    "Height": [
+      "24-26 inches (male)",
+      "22-24 inches (female)"
+    ],
+    "Weight": [
+      "55-90 pounds (male)",
+      "50-65 pounds (female)"
+    ],
+    "Life Expectancy": "12-15 years",
+    "Affectionate With Family": 4,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 5,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 3,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 4,
+    "Adaptability Level": 4,
+    "Trainability Level": 4,
+    "Energy Level": 3,
+    "Barking Level": 5,
+    "Mental Stimulation Needs": 3
+  },
+  "Chow Chow": {
+    "Height": "17-20 inches",
+    "Weight": "45-70 pounds",
+    "Life Expectancy": "8-12 years",
+    "Affectionate With Family": 4,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 2,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 3,
+    "Drooling Level": 3,
+    "Coat Type": [
+      "Smooth",
+      "Rough",
+      "Double"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 2,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 5,
+    "Adaptability Level": 3,
+    "Trainability Level": 3,
+    "Energy Level": 3,
+    "Barking Level": 1,
+    "Mental Stimulation Needs": 3
+  },
+  "Cirneco dell’Etna": {
+    "Height": [
+      "18-19.5 inches (male)",
+      "16.5-18 inches (female)"
+    ],
+    "Weight": [
+      "22-26 pounds (male)",
+      "17-22 pounds (female)"
+    ],
+    "Life Expectancy": "12-14 years",
+    "Affectionate With Family": 4,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 4,
+    "Shedding Level": 1,
+    "Coat Grooming Frequency": 1,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 4,
+    "Trainability Level": 4,
+    "Energy Level": 3,
+    "Barking Level": 2,
+    "Mental Stimulation Needs": 3
+  },
+  "Clumber Spaniel": {
+    "Height": [
+      "18-20 inches (male)",
+      "17-19 inches (female)"
+    ],
+    "Weight": [
+      "70-85 pounds (male)",
+      "55-70 pounds (female)"
+    ],
+    "Life Expectancy": "10-12 years",
+    "Affectionate With Family": 4,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 4,
+    "Coat Type": [
+      "Wavy",
+      "Silky"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 4,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 4,
+    "Trainability Level": 4,
+    "Energy Level": 3,
+    "Barking Level": 1,
+    "Mental Stimulation Needs": 3
+  },
+  "Cocker Spaniel": {
+    "Height": [
+      "14.5-15.5 inches (male)",
+      "13.5-14.5 inches (female)"
+    ],
+    "Weight": [
+      "25-30 pounds (male)",
+      "20-25 pounds (female)"
+    ],
+    "Life Expectancy": "10-14 years",
+    "Affectionate With Family": 4,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 5,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 4,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Double",
+      "Silky"
+    ],
+    "Coat Length": [
+      "Long"
+    ],
+    "Openness To Strangers": 4,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 4,
+    "Trainability Level": 4,
+    "Energy Level": 4,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 3
+  },
+  "Collie": {
+    "Height": [
+      "24-26 inches (male)",
+      "22-24 inches (female)"
+    ],
+    "Weight": [
+      "60-75 pounds (male)",
+      "50-65 pounds (female)"
+    ],
+    "Life Expectancy": "12-14 years",
+    "Affectionate With Family": 4,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 3,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Smooth",
+      "Rough"
+    ],
+    "Coat Length": [
+      "Short",
+      "Long"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 4,
+    "Trainability Level": 4,
+    "Energy Level": 3,
+    "Barking Level": 5,
+    "Mental Stimulation Needs": 3
+  },
+  "Coton de Tulear": {
+    "Height": [
+      "10-11 inches (male)",
+      "9-10 inches (female)"
+    ],
+    "Weight": [
+      "9-15 pounds (male)",
+      "8-13 pounds (female)"
+    ],
+    "Life Expectancy": "15-19 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 5,
+    "Shedding Level": 2,
+    "Coat Grooming Frequency": 4,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Double",
+      "Wavy"
+    ],
+    "Coat Length": [
+      "Long"
+    ],
+    "Openness To Strangers": 5,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 4,
+    "Trainability Level": 4,
+    "Energy Level": 3,
+    "Barking Level": 1,
+    "Mental Stimulation Needs": 3
+  },
+  "Croatian Sheepdog": {
+    "Height": "16-20 inches",
+    "Weight": "29-44 pounds",
+    "Life Expectancy": "13-14 years",
+    "Affectionate With Family": 3,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 2,
+    "Coat Grooming Frequency": 1,
+    "Drooling Level": 3,
+    "Coat Type": [
+      "Double",
+      "Wavy"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 2,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 5,
+    "Adaptability Level": 2,
+    "Trainability Level": 3,
+    "Energy Level": 3,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 3
+  },
+  "Curly-Coated Retriever": {
+    "Height": [
+      "25-27 inches (male)",
+      "23-25 inches (female)"
+    ],
+    "Weight": "60-95 pounds",
+    "Life Expectancy": "10-12 yeara",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 2,
+    "Coat Grooming Frequency": 1,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Double",
+      "Curly"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 4,
+    "Adaptability Level": 4,
+    "Trainability Level": 4,
+    "Energy Level": 4,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 3
+  },
+  "Czechoslovakian Vlcak": {
+    "Height": "Minimum: 23.5-25.5 inches",
+    "Weight": "Minimum: 44-57 pounds",
+    "Life Expectancy": "10-15 years",
+    "Affectionate With Family": 3,
+    "Good With Young Children": 1,
+    "Good With Other Dogs": 1,
+    "Shedding Level": 5,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 3,
+    "Coat Type": [
+      "Double",
+      "Wavy"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 5,
+    "Adaptability Level": 2,
+    "Trainability Level": 3,
+    "Energy Level": 3,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 3
+  },
+  "Dachshund": {
+    "Height": [
+      "8-9 inches (standard)",
+      "5-6 inches (miniature)"
+    ],
+    "Weight": [
+      "16-32 pounds (standard)",
+      "11 pounds & under (miniature)"
+    ],
+    "Life Expectancy": "12-16 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 4,
+    "Shedding Level": 2,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short",
+      "Medium"
+    ],
+    "Openness To Strangers": 4,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 4,
+    "Adaptability Level": 4,
+    "Trainability Level": 4,
+    "Energy Level": 3,
+    "Barking Level": 5,
+    "Mental Stimulation Needs": 3
+  }
+}

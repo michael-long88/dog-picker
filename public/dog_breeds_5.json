@@ -1,0 +1,411 @@
+{
+  "Broholmer": {
+    "Height": "27.5-29.5 inches",
+    "Weight": "90-150 pounds",
+    "Life Expectancy": "8-10 years",
+    "Affectionate With Family": 3,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 1,
+    "Drooling Level": 3,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 4,
+    "Adaptability Level": 3,
+    "Trainability Level": 3,
+    "Energy Level": 2,
+    "Barking Level": 1,
+    "Mental Stimulation Needs": 3
+  },
+  "Brussels Griffon": {
+    "Height": "7-10 inches",
+    "Weight": "8-10 pounds",
+    "Life Expectancy": "12-15 years",
+    "Affectionate With Family": 4,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 3,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Wiry",
+      "Smooth",
+      "Double"
+    ],
+    "Coat Length": [
+      "Short",
+      "Medium"
+    ],
+    "Openness To Strangers": 4,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 4,
+    "Trainability Level": 4,
+    "Energy Level": 3,
+    "Barking Level": 4,
+    "Mental Stimulation Needs": 3
+  },
+  "Bull Terrier": {
+    "Height": "21-22 inches",
+    "Weight": "50-70 pounds",
+    "Life Expectancy": "12-13 years",
+    "Affectionate With Family": 4,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 1,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 4,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 3,
+    "Trainability Level": 3,
+    "Energy Level": 4,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 4
+  },
+  "Bulldog": {
+    "Height": "14-15 inches",
+    "Weight": [
+      "50 pounds (male)",
+      "40 pounds (female)"
+    ],
+    "Life Expectancy": "8-10 years",
+    "Affectionate With Family": 4,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 3,
+    "Drooling Level": 3,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 4,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 3,
+    "Trainability Level": 4,
+    "Energy Level": 3,
+    "Barking Level": 2,
+    "Mental Stimulation Needs": 3
+  },
+  "Bullmastiff": {
+    "Height": [
+      "25-27 inches (male)",
+      "24-26 inches (female)"
+    ],
+    "Weight": [
+      "110-130 pounds (male)",
+      "100-120 pounds (female)"
+    ],
+    "Life Expectancy": "7-9 years",
+    "Affectionate With Family": 4,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 1,
+    "Drooling Level": 3,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 5,
+    "Adaptability Level": 3,
+    "Trainability Level": 4,
+    "Energy Level": 4,
+    "Barking Level": 1,
+    "Mental Stimulation Needs": 4
+  },
+  "Cairn Terrier": {
+    "Height": [
+      "10 inches (male)",
+      "9.5 inches (female)"
+    ],
+    "Weight": [
+      "14 pounds (male)",
+      "13 pounds (female)"
+    ],
+    "Life Expectancy": "13-15 years",
+    "Affectionate With Family": 4,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 2,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Wiry",
+      "Double"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 4,
+    "Adaptability Level": 3,
+    "Trainability Level": 3,
+    "Energy Level": 3,
+    "Barking Level": 4,
+    "Mental Stimulation Needs": 3
+  },
+  "Canaan Dog": {
+    "Height": [
+      "20-24 inches (male)",
+      "19-23 inches (female)"
+    ],
+    "Weight": [
+      "45-55 pounds (male)",
+      "35-45 pounds (female)"
+    ],
+    "Life Expectancy": "12-15 years",
+    "Affectionate With Family": 3,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 4,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Smooth",
+      "Double"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 4,
+    "Adaptability Level": 3,
+    "Trainability Level": 4,
+    "Energy Level": 3,
+    "Barking Level": 5,
+    "Mental Stimulation Needs": 3
+  },
+  "Cane Corso": {
+    "Height": [
+      "25-27.5 inches (male)",
+      "23.5-26 inches (female)"
+    ],
+    "Weight": "Proportionate to height",
+    "Life Expectancy": "9-12 years",
+    "Affectionate With Family": 4,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 2,
+    "Coat Grooming Frequency": 1,
+    "Drooling Level": 3,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 5,
+    "Adaptability Level": 3,
+    "Trainability Level": 4,
+    "Energy Level": 4,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 3
+  },
+  "Cardigan Welsh Corgi": {
+    "Height": "10.5-12.5 inches",
+    "Weight": [
+      "30-38 pounds (male)",
+      "25-34 pounds (female)"
+    ],
+    "Life Expectancy": "12-15 years",
+    "Affectionate With Family": 4,
+    "Good With Young Children": 4,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Double"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 4,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 3,
+    "Trainability Level": 4,
+    "Energy Level": 4,
+    "Barking Level": 5,
+    "Mental Stimulation Needs": 4
+  },
+  "Carolina Dog": {
+    "Height": "17.75-19.5 inches",
+    "Weight": "30-55 pounds",
+    "Life Expectancy": "",
+    "Affectionate With Family": 3,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 1,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 3,
+    "Trainability Level": 3,
+    "Energy Level": 3,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 3
+  },
+  "Catahoula Leopard Dog": {
+    "Height": "22-24 inches",
+    "Weight": "50-95 pounds",
+    "Life Expectancy": "10-14 years",
+    "Affectionate With Family": 4,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 4,
+    "Adaptability Level": 3,
+    "Trainability Level": 4,
+    "Energy Level": 5,
+    "Barking Level": 1,
+    "Mental Stimulation Needs": 4
+  },
+  "Caucasian Shepherd Dog": {
+    "Height": "23-30 inches",
+    "Weight": "99-170 pounds",
+    "Life Expectancy": "10-12 years",
+    "Affectionate With Family": 3,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 2,
+    "Shedding Level": 4,
+    "Coat Grooming Frequency": 3,
+    "Drooling Level": 4,
+    "Coat Type": [
+      "Double"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 2,
+    "Playfulness Level": 2,
+    "Watchdog/Protective Nature": 5,
+    "Adaptability Level": 3,
+    "Trainability Level": 3,
+    "Energy Level": 3,
+    "Barking Level": 2,
+    "Mental Stimulation Needs": 3
+  },
+  "Cavalier King Charles Spaniel": {
+    "Height": "12-13 inches",
+    "Weight": "13-18 pounds",
+    "Life Expectancy": "12-15 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 5,
+    "Shedding Level": 2,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Wavy",
+      "Silky"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 4,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 3,
+    "Trainability Level": 4,
+    "Energy Level": 3,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 3
+  },
+  "Central Asian Shepherd Dog": {
+    "Height": "Minimum: 25.5-27.5 inches",
+    "Weight": "Minimum: 88-110 pounds",
+    "Life Expectancy": "",
+    "Affectionate With Family": 3,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 1,
+    "Drooling Level": 3,
+    "Coat Type": [
+      "Double"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 1,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 5,
+    "Adaptability Level": 4,
+    "Trainability Level": 4,
+    "Energy Level": 3,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 3
+  },
+  "Cesky Terrier": {
+    "Height": "10-13 inches",
+    "Weight": "14-24 pounds",
+    "Life Expectancy": "12-15 years",
+    "Affectionate With Family": 4,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 2,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Wavy",
+      "Silky"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 4,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 4,
+    "Trainability Level": 3,
+    "Energy Level": 3,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 3
+  }
+}

@@ -1,0 +1,346 @@
+{
+  "Welsh Springer Spaniel": {
+    "Height": [
+      "18-19 inches (male)",
+      "17-18 inches (female)"
+    ],
+    "Weight": [
+      "40-55 pounds (male)",
+      "35-50 pounds (female)"
+    ],
+    "Life Expectancy": "12-15 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 4,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Double"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 1,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 4,
+    "Trainability Level": 5,
+    "Energy Level": 4,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 4
+  },
+  "Welsh Terrier": {
+    "Height": [
+      "15 inches (male)",
+      "porportionally smaller (female)"
+    ],
+    "Weight": [
+      "20 pounds",
+      "porportionally smaller (female)"
+    ],
+    "Life Expectancy": "12-15 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 2,
+    "Coat Grooming Frequency": 3,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Wiry",
+      "Double"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 5,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 4,
+    "Adaptability Level": 4,
+    "Trainability Level": 4,
+    "Energy Level": 4,
+    "Barking Level": 4,
+    "Mental Stimulation Needs": 4
+  },
+  "West Highland White Terrier": {
+    "Height": [
+      "11 inches (male). 10 inches",
+      "female"
+    ],
+    "Weight": "15-20 pounds",
+    "Life Expectancy": "13-15 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 3,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Double"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 4,
+    "Playfulness Level": 5,
+    "Watchdog/Protective Nature": 5,
+    "Adaptability Level": 4,
+    "Trainability Level": 3,
+    "Energy Level": 4,
+    "Barking Level": 5,
+    "Mental Stimulation Needs": 4
+  },
+  "Wetterhoun": {
+    "Height": [
+      "23 inches (male)",
+      "21.5 inches (female)"
+    ],
+    "Weight": "50-75 pounds",
+    "Life Expectancy": "13 years",
+    "Affectionate With Family": [],
+    "Good With Young Children": [],
+    "Good With Other Dogs": [],
+    "Shedding Level": [],
+    "Coat Grooming Frequency": [],
+    "Drooling Level": [],
+    "Coat Type": [],
+    "Coat Length": [],
+    "Openness To Strangers": [],
+    "Playfulness Level": [],
+    "Watchdog/Protective Nature": [],
+    "Adaptability Level": [],
+    "Trainability Level": [],
+    "Energy Level": [],
+    "Barking Level": [],
+    "Mental Stimulation Needs": []
+  },
+  "Whippet": {
+    "Height": [
+      "19-22 inches (male)",
+      "18-21 inches (female)"
+    ],
+    "Weight": "25-40 pounds",
+    "Life Expectancy": "12-15 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 5,
+    "Shedding Level": 2,
+    "Coat Grooming Frequency": 1,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 3,
+    "Trainability Level": 3,
+    "Energy Level": 4,
+    "Barking Level": 1,
+    "Mental Stimulation Needs": 4
+  },
+  "Wire Fox Terrier": {
+    "Height": [
+      "15½ inches",
+      "18 pounds (male)"
+    ],
+    "Weight": "15-17 (female)",
+    "Life Expectancy": "12-15 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 2,
+    "Coat Grooming Frequency": 3,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Wiry",
+      "Double"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 5,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 4,
+    "Adaptability Level": 4,
+    "Trainability Level": 4,
+    "Energy Level": 4,
+    "Barking Level": 4,
+    "Mental Stimulation Needs": 4
+  },
+  "Wirehaired Pointing Griffon": {
+    "Height": [
+      "22-24 inches (male)",
+      "20-22 inches (female)"
+    ],
+    "Weight": [
+      "50-70 pounds (male)",
+      "35-50 pounds (female)"
+    ],
+    "Life Expectancy": "12-15 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 3,
+    "Coat Type": [
+      "Wiry",
+      "Double"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 5,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 4,
+    "Trainability Level": 5,
+    "Energy Level": 5,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 5
+  },
+  "Wirehaired Vizsla": {
+    "Height": [
+      "23-25 inches (male)",
+      "21.5-23 inches (female)"
+    ],
+    "Weight": [
+      "55-65 pounds (male)",
+      "45-55 pounds (female)"
+    ],
+    "Life Expectancy": "12-14 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 1,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Wiry"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 5,
+    "Playfulness Level": 5,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 4,
+    "Trainability Level": 5,
+    "Energy Level": 5,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 5
+  },
+  "Working Kelpie": {
+    "Height": "19-25 inches",
+    "Weight": "28-60 pounds",
+    "Life Expectancy": "12-15 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 1,
+    "Drooling Level": 2,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 5,
+    "Playfulness Level": 5,
+    "Watchdog/Protective Nature": 4,
+    "Adaptability Level": 4,
+    "Trainability Level": 5,
+    "Energy Level": 5,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 5
+  },
+  "Xoloitzcuintli": {
+    "Height": [
+      "10-14 inches (toy)",
+      "14-18 inches (miniature)",
+      "18-23 inches (standard)"
+    ],
+    "Weight": [
+      "10-15 pounds (toy)",
+      "15-30 pounds (miniature)",
+      "30-55 pounds (standard)"
+    ],
+    "Life Expectancy": "13-18 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 1,
+    "Coat Grooming Frequency": 1,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Hairless",
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 4,
+    "Trainability Level": 4,
+    "Energy Level": 4,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 4
+  },
+  "Yakutian Laika": {
+    "Height": "21-23 inches",
+    "Weight": "40-55 pounds",
+    "Life Expectancy": "10-12 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 4,
+    "Shedding Level": 4,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 3,
+    "Coat Type": [
+      "Double"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 1,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 5,
+    "Adaptability Level": 4,
+    "Trainability Level": 3,
+    "Energy Level": 5,
+    "Barking Level": 4,
+    "Mental Stimulation Needs": 5
+  },
+  "Yorkshire Terrier": {
+    "Height": "7-8 inches",
+    "Weight": "7 pounds",
+    "Life Expectancy": "11-15 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 1,
+    "Coat Grooming Frequency": 5,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Silky"
+    ],
+    "Coat Length": [
+      "Long"
+    ],
+    "Openness To Strangers": 5,
+    "Playfulness Level": 4,
+    "Watchdog/Protective Nature": 5,
+    "Adaptability Level": 5,
+    "Trainability Level": 4,
+    "Energy Level": 4,
+    "Barking Level": 4,
+    "Mental Stimulation Needs": 4
+  }
+}

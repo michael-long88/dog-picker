@@ -1,0 +1,434 @@
+{
+  "Affenpinscher": {
+    "Height": "9-11.5 inches",
+    "Weight": "7-10 pounds",
+    "Life Expectancy": "12-15 years",
+    "Affectionate With Family": 3,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 3,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Wiry"
+    ],
+    "Coat Length": [
+      "Short",
+      "Medium"
+    ],
+    "Openness To Strangers": 5,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 4,
+    "Trainability Level": 3,
+    "Energy Level": 3,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 3
+  },
+  "Afghan Hound": {
+    "Height": "25-27 inches",
+    "Weight": "50-60 pounds",
+    "Life Expectancy": "12-18 years",
+    "Affectionate With Family": 3,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 1,
+    "Coat Grooming Frequency": 4,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Silky"
+    ],
+    "Coat Length": [
+      "Long"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 3,
+    "Trainability Level": 1,
+    "Energy Level": 4,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 3
+  },
+  "Airedale Terrier": {
+    "Height": "23 inches",
+    "Weight": "50-70 pounds",
+    "Life Expectancy": "11-14 years",
+    "Affectionate With Family": 3,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 1,
+    "Coat Grooming Frequency": 3,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Wiry"
+    ],
+    "Coat Length": [
+      "Short",
+      "Medium"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 5,
+    "Adaptability Level": 3,
+    "Trainability Level": 3,
+    "Energy Level": 3,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 3
+  },
+  "Akita": {
+    "Height": [
+      "26-28 inches (male)",
+      "24-26 inches (female)"
+    ],
+    "Weight": [
+      "100-130 pounds (male)",
+      "70-100 pounds (female)"
+    ],
+    "Life Expectancy": "10-13 years",
+    "Affectionate With Family": 3,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 1,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 3,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Double"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 2,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 5,
+    "Adaptability Level": 3,
+    "Trainability Level": 3,
+    "Energy Level": 4,
+    "Barking Level": 2,
+    "Mental Stimulation Needs": 3
+  },
+  "Alaskan Klee Kai": {
+    "Height": [
+      "13 inches and under (Toy)",
+      "13-15 inches (Miniature)",
+      "15-17 1/2 inches (Standard)"
+    ],
+    "Weight": [
+      "6-12 lbs (Toy)",
+      "10-18 lbs (Miniature)",
+      "16-25 lbs (Standard)"
+    ],
+    "Life Expectancy": "13-16 years",
+    "Affectionate With Family": [],
+    "Good With Young Children": [],
+    "Good With Other Dogs": [],
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": [],
+    "Coat Type": [],
+    "Coat Length": [],
+    "Openness To Strangers": [],
+    "Playfulness Level": [],
+    "Watchdog/Protective Nature": [],
+    "Adaptability Level": [],
+    "Trainability Level": 3,
+    "Energy Level": 4,
+    "Barking Level": [],
+    "Mental Stimulation Needs": []
+  },
+  "Alaskan Malamute": {
+    "Height": [
+      "25 inches (male)",
+      "23 inches (female)"
+    ],
+    "Weight": [
+      "85 pounds (male)",
+      "75 pounds (female)"
+    ],
+    "Life Expectancy": "10-14 years",
+    "Affectionate With Family": 3,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 3,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Double"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 4,
+    "Adaptability Level": 3,
+    "Trainability Level": 5,
+    "Energy Level": 4,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 3
+  },
+  "American Bulldog": {
+    "Height": [
+      "22-25 inches (males)",
+      "20-23 inches (females)"
+    ],
+    "Weight": [
+      "75-100 pounds (males)",
+      "60-80 pounds (females)"
+    ],
+    "Life Expectancy": "10  - 12 years",
+    "Affectionate With Family": [],
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 2,
+    "Coat Grooming Frequency": [],
+    "Drooling Level": [],
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": [],
+    "Playfulness Level": [],
+    "Watchdog/Protective Nature": [],
+    "Adaptability Level": [],
+    "Trainability Level": 4,
+    "Energy Level": [],
+    "Barking Level": 1,
+    "Mental Stimulation Needs": []
+  },
+  "American English Coonhound": {
+    "Height": [
+      "24-26 inches (male)",
+      "23-25 inches (female)"
+    ],
+    "Weight": "45-65 pounds",
+    "Life Expectancy": "11-12 years",
+    "Affectionate With Family": 3,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 5,
+    "Shedding Level": 2,
+    "Coat Grooming Frequency": 1,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 3,
+    "Trainability Level": 3,
+    "Energy Level": 4,
+    "Barking Level": 4,
+    "Mental Stimulation Needs": 3
+  },
+  "American Eskimo Dog": {
+    "Height": [
+      "9-12 inches (toy)",
+      "12-15 inches (miniature)",
+      "15-19 inches (Standard)"
+    ],
+    "Weight": [
+      "6-10 pounds (toy)",
+      "10-20 pounds (miniature)",
+      "25-35 pounds (standard)"
+    ],
+    "Life Expectancy": "13-15 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 3,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Double"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 5,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 4,
+    "Trainability Level": 4,
+    "Energy Level": 4,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 3
+  },
+  "American Foxhound": {
+    "Height": [
+      "22-25 inches (male)",
+      "21-24 inches (female)"
+    ],
+    "Weight": [
+      "65-70 pounds (male)",
+      "60-65 pounds (female)"
+    ],
+    "Life Expectancy": "11-13 years",
+    "Affectionate With Family": 3,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 5,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 1,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 3,
+    "Trainability Level": 3,
+    "Energy Level": 4,
+    "Barking Level": 5,
+    "Mental Stimulation Needs": 3
+  },
+  "American Hairless Terrier": {
+    "Height": "12-16 inches",
+    "Weight": "12-16 pounds",
+    "Life Expectancy": "14-16 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 1,
+    "Coat Grooming Frequency": 1,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Hairless"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 5,
+    "Trainability Level": 5,
+    "Energy Level": 3,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 3
+  },
+  "American Leopard Hound": {
+    "Height": "21-27 inches",
+    "Weight": "45-70 pounds",
+    "Life Expectancy": "12-15 years",
+    "Affectionate With Family": 3,
+    "Good With Young Children": 5,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 1,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 3,
+    "Trainability Level": 3,
+    "Energy Level": 4,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 3
+  },
+  "American Staffordshire Terrier": {
+    "Height": [
+      "18-19 inches (male)",
+      "17-18 inches (female)"
+    ],
+    "Weight": [
+      "55-70 pounds (male)",
+      "40-55 pounds (female)"
+    ],
+    "Life Expectancy": "12-16 years",
+    "Affectionate With Family": 5,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 2,
+    "Coat Grooming Frequency": 1,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 4,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 5,
+    "Adaptability Level": 3,
+    "Trainability Level": 3,
+    "Energy Level": 3,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 3
+  },
+  "American Water Spaniel": {
+    "Height": "15-18 inches",
+    "Weight": [
+      "30-45 pounds (male)",
+      "25-40 pounds (female)"
+    ],
+    "Life Expectancy": "10-14 years",
+    "Affectionate With Family": 3,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 1,
+    "Coat Grooming Frequency": 3,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Double",
+      "Curly"
+    ],
+    "Coat Length": [
+      "Medium"
+    ],
+    "Openness To Strangers": 3,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 3,
+    "Adaptability Level": 3,
+    "Trainability Level": 5,
+    "Energy Level": 3,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 3
+  },
+  "Anatolian Shepherd Dog": {
+    "Height": [
+      "29 inches (male)",
+      "27 inches (female)"
+    ],
+    "Weight": [
+      "110-150 pounds (male)",
+      "80-120 pounds (female)"
+    ],
+    "Life Expectancy": "11-13 years",
+    "Affectionate With Family": 1,
+    "Good With Young Children": 3,
+    "Good With Other Dogs": 3,
+    "Shedding Level": 3,
+    "Coat Grooming Frequency": 2,
+    "Drooling Level": 1,
+    "Coat Type": [
+      "Smooth"
+    ],
+    "Coat Length": [
+      "Short"
+    ],
+    "Openness To Strangers": 1,
+    "Playfulness Level": 3,
+    "Watchdog/Protective Nature": 5,
+    "Adaptability Level": 3,
+    "Trainability Level": 2,
+    "Energy Level": 3,
+    "Barking Level": 3,
+    "Mental Stimulation Needs": 3
+  }
+}
